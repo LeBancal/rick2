@@ -3,7 +3,7 @@ const smogon = new Discord.Client()
 const google = require ('./google')
 
 smogon.on('ready', function() {
-    smogon.user.setActivity('Showdown')
+    smogon.user.setActivity('Rick')
 
 })
 

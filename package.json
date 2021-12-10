@@ -15,6 +15,10 @@
     "engines":
         "node":"17.2.0"
         "scripts": {
+    "start":"react-scripts start"
+    "start":"react-scripts build"
+    "start":"react-scripts test"
+    "start":"react-scripts eject"
     "start":"node index.js"
 }
 

@@ -10,15 +10,9 @@
     "license": "ISC",
     "description": "",
     "dependencies": {
-      "discord.js": "^12.2.0"
-    }
-    "engines":
-        "node":"17.2.0"
-        "scripts": {
-    "start":"react-scripts start"
-    "start":"react-scripts build"
-    "start":"react-scripts test"
-    "start":"react-scripts eject"
+      "discord.js": "^13.3.1"
+    },
+        "scripts': {
     "start":"node index.js"
 }
 
